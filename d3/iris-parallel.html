@@ -89,7 +89,7 @@ var svg = d3.select("body").append("svg:svg")
   .append("svg:g")
     .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
 
-d3.csv("iris.csv", function(flowers) {
+d3.csv("data/iris.csv", function(flowers) {
 
   // Create a scale and brush for each trait.
   traits.forEach(function(d) {

@@ -54,14 +54,14 @@ var states = svg.append("svg:g")
 var cells = svg.append("svg:g")
     .attr("id", "cells");
 
-d3.json("us-states.json", function(collection) {
+d3.json("data/us-states.json", function(collection) {
   states.selectAll("path")
       .data(collection.features)
     .enter().append("svg:path")
       .attr("d", path);
 });
 
-d3.csv("airports.csv", function(airports) {
+d3.csv("data/airports.csv", function(airports) {
   var positions = [];
 
   airports.forEach(function(airport) {
