@@ -1,0 +1,99 @@
+Clojure, Adopt, Languages & Frameworks
+Scala the good parts, Adopt, Languages & Frameworks
+Sinatra,Adopt, Languages & Frameworks
+Dropwizard,Adopt, Languages & Frameworks
+Handwritten CSS, Hold, Languages & Frameworks
+Nancy, Assess, Languages & Frameworks
+OWIN, Assess, Languages & Frameworks
+CoffeeScript, Trial, Languages & Frameworks
+Play Framework 2, Trial, Languages & Frameworks
+Elixir, Assess, Languages & Frameworks
+Julia,Assess, Languages & Frameworks
+Pester,Assess, Languages & Frameworks
+Python 3,Assess, Languages & Frameworks
+Touch Events,Assess, Languages & Frameworks
+TypeScript,Assess, Languages & Frameworks
+Yeoman,Assess, Languages & Frameworks
+JSF,Hold, Languages & Frameworks
+Go Lang,Trial, Languages & Frameworks
+Hive,Trial, Languages & Frameworks
+Reactive Language Extensions, Trial, Languages & Frameworks
+Web API,Trial, Languages & Frameworks
+
+
+Node.js, Adopt, Platforms
+Neo4J,Adopt, Platforms
+MongoDB, Adopt, Platforms
+PhoneGap/Apache Cordova, Assess, Platforms
+Redis, Adopt, Platforms
+SMS and USS as a UI, Adopt, Platforms
+Vumi, Trial, Platforms
+Big enterprise solutions, Hold, Platforms
+OpenStack, Trial, Platforms
+PostgreSQL for NoSQL, Trial, Platforms
+Elastic Search, Adopt, Platforms
+Hadoop 2.0, Trial, Platforms
+Akka, Assess, Platforms
+Backend-as-a-service, Assess, Platforms
+Low cost robotics, Assess, Platforms
+Private Clouds, Assess, Platforms
+Spdy, Assess, Platforms
+Storm, Assess, Platforms
+Web Components standard, Assess, Platforms
+Centralized Data Warehouse,Hold, Platforms
+CMS-as-a-platform,Hold, Platforms
+Hadoop-as-a-service,Trial, Platforms
+
+Mobile testing on mobile networks,Adopt, Techniques
+continuous dilivery for mobile devices, Adopt, Techniques
+Micro-services, Trial, Techniques
+Windows infrastructure automation, Adopt, Techniques
+Perimeterless enterprise, Trial, Techniques
+Capturing client-side JavaScript errors, Adopt, Techniques
+Collaborative analytics and data science, Assess, Techniques
+Development environments in the cloud, Assess, Techniques
+Machine image as a build artifact, Assess, Techniques
+Focus on mean time to recovery, Assess, Techniques
+HTML5 storage instead of cookies, Trial, Techniques
+Segregated DOM plus node for JS Testing, Adopt, Techniques
+Data Oarsimony, Assess, Techniques
+Bridging physical and digital worlds with simple hardware, Assess, Techniques
+Tangible interaction, Assess, Techniques
+Cloud lift and shift, Hold, Techniques
+Ignoring OWASP Top 10, Hold, Techniques
+Siloed metrics, Hold, Techniques
+Velocity as Productivity, Hold, Techniques
+Capture Domain Events Explicitily,Trial, Techniques
+Client and Server rendering with same code,Trial, Techniques
+Instrument all the things,Trial, Techniques
+Masterless Chef/Puppet,Trial, Techniques
+Provisioning Testing(ServerSpec),Trial, Techniques
+Structured Logging,Trial, Techniques
+
+
+TFS,Hold, Tools
+D3, Adopt, Tools
+Hystrix , Trial, Tools
+Puppet-librarian and Chef-librarian, Trial, Tools
+Octopus, Assess, Tools
+Heavyweight test tools, Hold, Tools
+PhantomJS, Trial, Tools
+Icon fonts, Trial, Tools
+Logstash & Graylog2, Trial, Tools
+Snowplow Analytics & Piwik, Trial, Tools
+Gatling,Trial, Tools
+Dependency management for javascript, Adopt, Tools
+Cloud Init, Assess, Tools
+Docker, Assess, Tools
+Sensu, Assess, Tools
+Travis for OSX/IOS, Assess, Tools
+Visual regression testing tools, Assess, Tools
+Xamarin, Assess, Tools
+Ant, Hold, Tools
+Ansible,Trial, Tools
+Calabash,Trial, Tools
+ChaosMonkey,Trial, Tools
+Grunt.js,Trial, Tools
+Moco,Trial, Tools
+POP,Trial, Tools
+SnapCI,Trial, Tools
