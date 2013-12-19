@@ -1,0 +1,47 @@
+{
+"name": "radar day3",
+"children" : [
+    {
+        "name": "Tools",
+        "children": [
+            {
+                "name" : "Adopt",
+                "children": [
+                    {"name": "D3"}
+                ]
+            },
+            {
+                "name": "Trial",
+                "children": [
+                    {"name": "Icon fonts"},
+                    {"name": "Grunt.js"}
+                ]
+            }
+        ]
+
+    },
+    {
+        "name": "Languages & Frameworks",
+        "children": [
+            {
+                "name": "Trial",
+                "children": [{"name": "CoffeeScript"}]
+            },
+            {
+                "name": "Adopt",
+                "children": [{"name": "Clojure"}]
+            }
+        ]
+    },
+    {
+        "name": "Techniques",
+        "children": [
+            {
+                "name": "Hold",
+                "children": [{"name": "Velocity as Productivity"}]
+            }
+
+        ]
+    }
+]
+}
