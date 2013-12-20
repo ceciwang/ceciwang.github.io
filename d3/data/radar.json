@@ -5,14 +5,17 @@
         "name": "Tools",
         "children": [
             {
-                    "name": "D3"
+                    "name": "D3",
+                    "color": "blue"
                 
             },
             {    
-                    "name": "Icon fonts"
+                    "name": "Icon fonts",
+                    "color": "green"
             },
             {
-                    "name": "Grunt.js"    
+                    "name": "Grunt.js",    
+                    "color": "green"
             }
         ]
     },
@@ -22,13 +25,16 @@
         "children": [
             {
     
-                "name": "CoffeeScript"
+                "name": "CoffeeScript",
+                "color": "green"
             },
             {
-                "name": "TypeScript"
+                "name": "TypeScript",
+                "color": "yellow"
             },
             {
-                "name": "Clojure"
+                "name": "Clojure",
+                "color": "blue"
             }
         ]
     },
@@ -37,7 +43,8 @@
         "children": [
             {
                 
-                "name": "Velocity as Productivity"
+                "name": "Velocity as Productivity",
+                "color": "red"
             }
 
         ]

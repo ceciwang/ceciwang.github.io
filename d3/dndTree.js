@@ -386,7 +386,8 @@ treeJSON = d3.json("data/radar.json", function(error, treeData) {
             .attr('class', 'nodeCircle')
             .attr("r", 0)
             .style("fill", function(d) {
-                return d._children ? "lightsteelblue" : "#fff";
+                if(d.color) return d.color;
+                return d._children ? "lightsteelblue" : "#eee";
             });
 
         nodeEnter.append("text")
@@ -433,6 +434,7 @@ treeJSON = d3.json("data/radar.json", function(error, treeData) {
         node.select("circle.nodeCircle")
             .attr("r", 4.5)
             .style("fill", function(d) {
+                if(d.color) return d.color;
                 return d._children ? "lightsteelblue" : "#fff";
             });
 
