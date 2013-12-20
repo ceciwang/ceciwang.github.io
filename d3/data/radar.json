@@ -25,6 +25,9 @@
                 "name": "CoffeeScript"
             },
             {
+                "name": "TypeScript"
+            },
+            {
                 "name": "Clojure"
             }
         ]
