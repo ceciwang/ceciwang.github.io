@@ -5,31 +5,27 @@
         "name": "Tools",
         "children": [
             {
-                "name" : "Adopt",
-                "children": [
-                    {"name": "D3"}
-                ]
+                    "name": "D3"
+                
+            },
+            {    
+                    "name": "Icon fonts"
             },
             {
-                "name": "Trial",
-                "children": [
-                    {"name": "Icon fonts"},
-                    {"name": "Grunt.js"}
-                ]
+                    "name": "Grunt.js"    
             }
         ]
-
     },
+
     {
         "name": "Languages & Frameworks",
         "children": [
             {
-                "name": "Trial",
-                "children": [{"name": "CoffeeScript"}]
+    
+                "name": "CoffeeScript"
             },
             {
-                "name": "Adopt",
-                "children": [{"name": "Clojure"}]
+                "name": "Clojure"
             }
         ]
     },
@@ -37,8 +33,8 @@
         "name": "Techniques",
         "children": [
             {
-                "name": "Hold",
-                "children": [{"name": "Velocity as Productivity"}]
+                
+                "name": "Velocity as Productivity"
             }
 
         ]
